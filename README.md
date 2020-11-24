@@ -1,5 +1,3 @@
-# RecipEasyFrontEnd
-
 # RecipEasy
 Authors: Nuran Golbasi, Hisham Masood, Prasiddhi Jain, Varun Srivastava
 
