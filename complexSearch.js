@@ -9,7 +9,7 @@ const token = "&apiKey=27f51b0486a74ef0be6e3e1f3dd9f49b";
 const submitButton = document.querySelector("#compButton");
 
 // select the limit of the amount of results
-const limit = "&number=4";
+const limit = "&number=3";
 
 let user = JSON.parse(localStorage.getItem("user"));
 console.log(user);
