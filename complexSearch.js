@@ -1,5 +1,5 @@
 // this is to get a list of recipes with the complex search
-const token = "&apiKey=2e13411b53c74b568de1511cd08f5e8e";
+const token = "&apiKey=0364b01a9e22427dbcc2855373067cbd";
 
 // Submit button after typing in ingredient stuff
 //THIS IS A TEMPLATE FOR HOW ITLL WORK

@@ -1,4 +1,4 @@
-const token = "&apiKey=2e13411b53c74b568de1511cd08f5e8e";
+const token = "&apiKey=0364b01a9e22427dbcc2855373067cbd";
 
 let user = JSON.parse(localStorage.getItem("user"));
 
