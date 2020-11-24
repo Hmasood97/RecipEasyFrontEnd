@@ -1,5 +1,5 @@
 // this is to get a list of recipes with the complex search
-const token = "&apiKey=36ac0a8472444e0d93fc141d6c882275";
+const token = "&apiKey=27f51b0486a74ef0be6e3e1f3dd9f49b";
 
 // Submit button after typing in ingredient stuff
 //THIS IS A TEMPLATE FOR HOW ITLL WORK
@@ -9,7 +9,7 @@ const token = "&apiKey=36ac0a8472444e0d93fc141d6c882275";
 const submitButton = document.querySelector("#compButton");
 
 // select the limit of the amount of results
-const limit = "&number=1";
+const limit = "&number=4";
 
 let user = JSON.parse(localStorage.getItem("user"));
 console.log(user);
