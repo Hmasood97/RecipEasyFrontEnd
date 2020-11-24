@@ -27,10 +27,14 @@ For ingredient search all you need to do is just type the ingredients you have a
 We will return recipes and then let you know what main ingredients you might need to go get. 
 We also let you know about some main dietry facts about the recipes as well as a link to the full instructions.
 
+
 Smart Search
 Type In anything!
 Our smart search is able to take in any combination of words and find recipes related to what you just searched. 
 Want to eat something chocolate, but your dietary restriction is vegan? 
 Well then just type in vegan chocolate and we can find you vegan chocolate recipes!
+
+*Note
+ The amount of responses our searches gives back can be limited to a specified amount
 
 Creat your own account and save your favorite recipes!
